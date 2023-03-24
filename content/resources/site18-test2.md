@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/site18/site18-test2.txt
+file: /media/courses/18-site18-spring-2022/site18-test2.txt
 file_type: text/plain
 image_metadata:
   caption: ''
