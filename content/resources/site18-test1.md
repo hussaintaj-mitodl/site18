@@ -1,6 +1,6 @@
 ---
 content_type: resource
-description: ''
+description: MARKDOWN
 file: /media/courses/18-site18-spring-2022/site18-test1.txt
 file_type: text/plain
 image_metadata:

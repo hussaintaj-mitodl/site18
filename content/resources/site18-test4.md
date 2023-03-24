@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: MARKDOWN
-file: /media/courses/18-site18-spring-2022/site18-test2.txt
+file: /media/courses/18-site18-spring-2022/site18-test4.txt
 file_type: text/plain
 image_metadata:
   caption: ''
@@ -10,8 +10,8 @@ image_metadata:
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: site18-test2.txt
-uid: c70c4277-81da-42a7-be92-10845660e075
+title: site18-test4.txt
+uid: 969be990-b718-47d0-a448-dbf91a56fc2d
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''
